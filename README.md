@@ -1,6 +1,5 @@
-I made this using React.js and it is responsive in any device
+<img src="https://i.ibb.co/hW4xGxR/main-page.png" width="100%" height="100%"/>
 
-[![Semantic description of image](https://i.ibb.co/hW4xGxR/main-page.png "Hello World")][about.gitlab.com]
 
 [Main Page](https://i.ibb.co/hW4xGxR/main-page.png)
 
